@@ -1,0 +1,19 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/memory_manager.dir/generated/memory_manager.grpc.pb.cc.o"
+  "CMakeFiles/memory_manager.dir/generated/memory_manager.grpc.pb.cc.o.d"
+  "CMakeFiles/memory_manager.dir/generated/memory_manager.pb.cc.o"
+  "CMakeFiles/memory_manager.dir/generated/memory_manager.pb.cc.o.d"
+  "CMakeFiles/memory_manager.dir/src/grpc_server.cpp.o"
+  "CMakeFiles/memory_manager.dir/src/grpc_server.cpp.o.d"
+  "CMakeFiles/memory_manager.dir/src/main.cpp.o"
+  "CMakeFiles/memory_manager.dir/src/main.cpp.o.d"
+  "CMakeFiles/memory_manager.dir/src/memory_manager.cpp.o"
+  "CMakeFiles/memory_manager.dir/src/memory_manager.cpp.o.d"
+  "memory_manager"
+  "memory_manager.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/memory_manager.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,3 @@
+/home/jia/MPointersProject/build/CMakeFiles/memory_manager.dir
+/home/jia/MPointersProject/build/CMakeFiles/edit_cache.dir
+/home/jia/MPointersProject/build/CMakeFiles/rebuild_cache.dir
